@@ -1,3 +1,3 @@
 # Contents:
 
-See the attached .swift file.
+See the attached Swift Playgrounds file.
